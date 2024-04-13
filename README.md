@@ -1,2 +1,2 @@
 # Stone-Paper
-It is written in HTML, CSS, Javascript. It is for practice
+Languages used are HTML, CSS and JavaScript.It is a simple stone paper scissors game.
